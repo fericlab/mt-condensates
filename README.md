@@ -26,14 +26,14 @@ Contact: mjf6624@psu.edu
 
 ## Installation guides
 
-1.Python(< 5 minutes): https://wiki.python.org/moin/BeginnersGuide/Download
-2.Anaconda Distribution (~ 15 minutes): https://www.anaconda.com/docs/getting-started/anaconda/install
-3.Trackpy (< 5 minutes): https://soft-matter.github.io/trackpy/v0.7/installation.html
-4.Czifile (< 5 minutes): 
-    -Open Anaconda Navigator
-    -Open Anaconda Command Shell
-    -type "pip install czifile" into the terminal and hit enter
-5.OpenCV-Python (< 5 minutes): https://pypi.org/project/opencv-python/#installation-and-usage
+  1.Python(< 5 minutes): https://wiki.python.org/moin/BeginnersGuide/Download
+  2.Anaconda Distribution (~ 15 minutes): https://www.anaconda.com/docs/getting-started/anaconda/install
+  3.Trackpy (< 5 minutes): https://soft-matter.github.io/trackpy/v0.7/installation.html
+  4.Czifile (< 5 minutes): 
+      -Open Anaconda Navigator
+      -Open Anaconda Command Shell
+      -type "pip install czifile" into the terminal and hit enter
+  5.OpenCV-Python (< 5 minutes): https://pypi.org/project/opencv-python/#installation-and-usage
 
 ### Distance and Nearest Neighbor Pipeline (< 5 minutes):
   - Download the .py files in the folders titled "Fig 1 and 2" and "Fig 3"
