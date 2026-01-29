@@ -26,10 +26,10 @@ Contact: mjf6624@psu.edu
 
 ## Installation guides
 
-Python(< 5 minutes): https://wiki.python.org/moin/BeginnersGuide/Download
-Anaconda Distribution (~ 15 minutes): https://www.anaconda.com/docs/getting-started/anaconda/install
-Trackpy (< 5 minutes): https://soft-matter.github.io/trackpy/v0.7/installation.html
-Czifile (< 5 minutes):
+-Python(< 5 minutes): https://wiki.python.org/moin/BeginnersGuide/Download
+-Anaconda Distribution (~ 15 minutes): https://www.anaconda.com/docs/getting-started/anaconda/install
+-Trackpy (< 5 minutes): https://soft-matter.github.io/trackpy/v0.7/installation.html
+-Czifile (< 5 minutes):
   - Open Anaconda Navigator
   - Open Anaconda Command Shell
   - type "pip install czifile" into the terminal and hit enter
@@ -37,8 +37,8 @@ Czifile (< 5 minutes):
 
 ### Distance and Nearest Neighbor Pipeline (< 5 minutes):
   - Download the .py files in the folders titled "Fig 1 and 2" and "Fig 3"
-  - Download the .py files in the folder titled "Parikh_Fig1_Extended_Fig1
-  - Download the .py files in the folder titled "Parikh_Fig2_Extended_Fig2
+  - Download the .py files in the folder titled "Parikh_Fig1_Extended_Fig1"
+  - Download the .py files in the folder titled "Parikh_Fig2_Extended_Fig2"
   - Place all .py files in one folder
   - Create a new folder inside the overall folder titled "testimage"
   - Download demo image in .czi format, or place an experimentally derived .czi image in the "testimage" folder
