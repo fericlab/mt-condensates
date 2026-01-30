@@ -36,16 +36,15 @@ Contact: mjf6624@psu.edu
 5. OpenCV-Python (< 5 minutes): https://pypi.org/project/opencv-python/#installation-and-usage
 
 ### Distance and Nearest Neighbor Pipeline (< 5 minutes):
-  - Download the .py files in the folders titled "Fig 1 and 2" and "Fig 3"
+  - Download the .py files in the folders titled "Fig 1 and 2 and Fig 3".
   - Download the .py files in the folder titled "Parikh_Fig1_Extended_Fig1"
   - Download the .py files in the folder titled "Parikh_Fig2_Extended_Fig2"
   - Place all .py files in one folder
   - Create a new folder inside the overall folder titled "testimage"
   - Download demo image in .czi format, or place an experimentally derived .czi image in the "testimage" folder
 
-## Demo: Running the Distance and Nearest Neighbor pipeline
-
-### Instructions
+## Demo: Running the Distance and Nearest Neighbor pipeline 
+### Instructions (Fig 1 and 2)
   - Open the file titled "distNNRunningScript20Apr25_d_5um_20251119" in an IDE
   - In the variable titled "directory" modify the statement of the variable to reflect the file path of "testimage" folder (the statement should look something like {r'C:\...\testimage'} for windows or {r'/.../testimage'} for macOS)
   - In the variable titled "zHeight" modify the statement to reflect the distance between z-slices in microns (for our demo image, the distance between subsequent z-slices is 0.130um or 130nm)
@@ -86,5 +85,6 @@ The following plots will be displayed
 
 See above demo instructions
 
+**Follow similar instructions for Fig 3 by downloading file 'AverageIntensityRunningScript-NP-x_centered_distances-20251016' and executing it. Expected outputs will generate 2D heatmaps for averaged intensities for 1vs(1,2,3,4) and so on for all 4 channels. These intensities will also be saved as 2D arrays in .csv files. Subsequent plotting scripts and instructions and raw data can be found under folder "Parikh_Fig1_Extended_Fig3".**
 
 
