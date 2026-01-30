@@ -85,6 +85,6 @@ The following plots will be displayed
 
 See above demo instructions
 
-**Follow similar instructions for Fig 3 by downloading file 'AverageIntensityRunningScript-NP-x_centered_distances-20251016' and executing it. Expected outputs will generate 2D heatmaps for averaged intensities for 1vs(1,2,3,4) and so on for all 4 channels. These intensities will also be saved as 2D arrays in .csv files. Subsequent plotting scripts and instructions and raw data can be found under folder "Parikh_Fig1_Extended_Fig3".**
+**Follow similar instructions for Fig 3 by downloading file 'AverageIntensityRunningScript-NP-x_centered_distances-20251016' and executing it. Expected outputs include 2D heatmaps for averaged intensities for 1vs(1,2,3,4) and so on for all 4 channels. These intensities will also be saved as 2D arrays in .csv files. Subsequent plotting scripts, instructions and raw data can be found under folder "Parikh_Fig1_Extended_Fig3".**
 
 
