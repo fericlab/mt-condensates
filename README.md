@@ -3,7 +3,7 @@ This is the source data accompanying the paper:
 
 "Phase coexistence of mitochondrial nucleoids and RNA granules in the transfer of nascent RNA"
 
-Image processiing, quantification, plotting, data visualization scripts; image files and raw data are organized by figure in 'Main and Supplementary Figures'. 'Supplementary Videos' contains video files.'mt-condensate_scripts' contains the main scripts used for analysis in Fig 1, Fig 2, Fig 3 and Fig 5.
+Image processing, quantification, plotting, data visualization scripts; image files and raw data are organized by figure in 'Main and Supplementary Figures'. 'Supplementary Videos' contains video files.'mt-condensate_scripts' contains the main scripts used for analysis in Fig 1, Fig 2, Fig 3 and Fig 5.
 
 Contact: mjf6624@psu.edu
 
